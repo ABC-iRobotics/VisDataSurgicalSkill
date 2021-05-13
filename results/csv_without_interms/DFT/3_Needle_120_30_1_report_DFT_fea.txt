@@ -1,0 +1,110 @@
+-------------------- DFT Features --------------------------------Needle Win: 120 Over: 30 Trial: 1---------
+
+Accuracy: 0.3987538940809969
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.27      0.85      0.41        79
+         2.0       0.84      0.25      0.39       242
+
+    accuracy                           0.40       321
+   macro avg       0.55      0.55      0.40       321
+weighted avg       0.70      0.40      0.39       321
+
+
+Confusion Matrix
+
+[[ 67  12]
+ [181  61]]
+
+-------------------- DFT Features --------------------------------Needle Win: 120 Over: 30 Trial: 2---------
+
+Accuracy: 0.48223350253807107
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.65      0.63      0.64       289
+         2.0       0.08      0.09      0.08       105
+
+    accuracy                           0.48       394
+   macro avg       0.37      0.36      0.36       394
+weighted avg       0.50      0.48      0.49       394
+
+
+Confusion Matrix
+
+[[181 108]
+ [ 96   9]]
+
+-------------------- DFT Features --------------------------------Needle Win: 120 Over: 30 Trial: 3---------
+
+Accuracy: 0.40271493212669685
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.45      0.59      0.51       235
+         2.0       0.29      0.19      0.23       207
+
+    accuracy                           0.40       442
+   macro avg       0.37      0.39      0.37       442
+weighted avg       0.38      0.40      0.38       442
+
+
+Confusion Matrix
+
+[[138  97]
+ [167  40]]
+
+-------------------- DFT Features --------------------------------Needle Win: 120 Over: 30 Trial: 4---------
+
+Accuracy: 0.5842450765864332
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.72      0.52      0.60       277
+         2.0       0.48      0.68      0.56       180
+
+    accuracy                           0.58       457
+   macro avg       0.60      0.60      0.58       457
+weighted avg       0.62      0.58      0.59       457
+
+
+Confusion Matrix
+
+[[144 133]
+ [ 57 123]]
+
+-------------------- DFT Features --------------------------------Needle Win: 120 Over: 30 Trial: 5---------
+
+Accuracy: 0.6138328530259366
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.59      0.93      0.72       185
+         2.0       0.76      0.25      0.38       162
+
+    accuracy                           0.61       347
+   macro avg       0.67      0.59      0.55       347
+weighted avg       0.67      0.61      0.56       347
+
+
+Confusion Matrix
+
+[[172  13]
+ [121  41]]
+
+
+-------------------------------------------
+
+Acc_features = 0.4963560516716269
+-------------------------------------------

@@ -1,0 +1,110 @@
+-------------------- DCT Features --------------------------------Needle Win: 150 Over: 30 Trial: 1---------
+
+Accuracy: 0.5471698113207547
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.34      0.92      0.50        78
+         2.0       0.94      0.42      0.59       240
+
+    accuracy                           0.55       318
+   macro avg       0.64      0.67      0.54       318
+weighted avg       0.80      0.55      0.57       318
+
+
+Confusion Matrix
+
+[[ 72   6]
+ [138 102]]
+
+-------------------- DCT Features --------------------------------Needle Win: 150 Over: 30 Trial: 2---------
+
+Accuracy: 0.5564102564102564
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.69      0.71      0.70       286
+         2.0       0.14      0.13      0.14       104
+
+    accuracy                           0.56       390
+   macro avg       0.42      0.42      0.42       390
+weighted avg       0.55      0.56      0.55       390
+
+
+Confusion Matrix
+
+[[203  83]
+ [ 90  14]]
+
+-------------------- DCT Features --------------------------------Needle Win: 150 Over: 30 Trial: 3---------
+
+Accuracy: 0.5730593607305936
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.69      0.63       233
+         2.0       0.56      0.44      0.49       205
+
+    accuracy                           0.57       438
+   macro avg       0.57      0.57      0.56       438
+weighted avg       0.57      0.57      0.57       438
+
+
+Confusion Matrix
+
+[[161  72]
+ [115  90]]
+
+-------------------- DCT Features --------------------------------Needle Win: 150 Over: 30 Trial: 4---------
+
+Accuracy: 0.37168141592920356
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.48      0.46      0.47       274
+         2.0       0.22      0.23      0.22       178
+
+    accuracy                           0.37       452
+   macro avg       0.35      0.35      0.35       452
+weighted avg       0.38      0.37      0.37       452
+
+
+Confusion Matrix
+
+[[127 147]
+ [137  41]]
+
+-------------------- DCT Features --------------------------------Needle Win: 150 Over: 30 Trial: 5---------
+
+Accuracy: 0.5597667638483965
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.55      0.89      0.68       183
+         2.0       0.59      0.18      0.28       160
+
+    accuracy                           0.56       343
+   macro avg       0.57      0.54      0.48       343
+weighted avg       0.57      0.56      0.49       343
+
+
+Confusion Matrix
+
+[[163  20]
+ [131  29]]
+
+
+-------------------------------------------
+
+Acc_features = 0.521617521647841
+-------------------------------------------

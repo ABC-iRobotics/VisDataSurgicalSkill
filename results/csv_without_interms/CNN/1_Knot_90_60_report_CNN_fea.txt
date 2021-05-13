@@ -1,0 +1,215 @@
+-------------------- Full NN --------------------------------Knot Win: 90 Shift: 60 Trial: 1---------
+
+Accuracy: 0.8082191780821918
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.84      0.89      0.87       101
+         2.0       0.72      0.62      0.67        45
+
+    accuracy                           0.81       146
+   macro avg       0.78      0.76      0.77       146
+weighted avg       0.80      0.81      0.80       146
+
+
+Confusion Matrix
+
+[[90 11]
+ [17 28]]
+
+-------------------- NN Fea --------------------------------Knot Win: 90 Shift: 60 Trial: 1---------
+
+Accuracy: 0.547945205479452
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.46      0.58       101
+         2.0       0.38      0.76      0.51        45
+
+    accuracy                           0.55       146
+   macro avg       0.59      0.61      0.54       146
+weighted avg       0.68      0.55      0.56       146
+
+
+Confusion Matrix
+
+[[46 55]
+ [11 34]]
+
+-------------------- Full NN --------------------------------Knot Win: 90 Shift: 60 Trial: 2---------
+
+Accuracy: 0.7007299270072993
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.72      0.94      0.82        98
+         2.0       0.40      0.10      0.16        39
+
+    accuracy                           0.70       137
+   macro avg       0.56      0.52      0.49       137
+weighted avg       0.63      0.70      0.63       137
+
+
+Confusion Matrix
+
+[[92  6]
+ [35  4]]
+
+-------------------- NN Fea --------------------------------Knot Win: 90 Shift: 60 Trial: 2---------
+
+Accuracy: 0.6204379562043796
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.76      0.69      0.72        98
+         2.0       0.36      0.44      0.40        39
+
+    accuracy                           0.62       137
+   macro avg       0.56      0.56      0.56       137
+weighted avg       0.64      0.62      0.63       137
+
+
+Confusion Matrix
+
+[[68 30]
+ [22 17]]
+
+-------------------- Full NN --------------------------------Knot Win: 90 Shift: 60 Trial: 3---------
+
+Accuracy: 0.775
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.87      0.85       118
+         2.0       0.58      0.50      0.54        42
+
+    accuracy                           0.78       160
+   macro avg       0.71      0.69      0.69       160
+weighted avg       0.77      0.78      0.77       160
+
+
+Confusion Matrix
+
+[[103  15]
+ [ 21  21]]
+
+-------------------- NN Fea --------------------------------Knot Win: 90 Shift: 60 Trial: 3---------
+
+Accuracy: 0.65625
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.67      0.74       118
+         2.0       0.40      0.62      0.49        42
+
+    accuracy                           0.66       160
+   macro avg       0.62      0.64      0.61       160
+weighted avg       0.72      0.66      0.67       160
+
+
+Confusion Matrix
+
+[[79 39]
+ [16 26]]
+
+-------------------- Full NN --------------------------------Knot Win: 90 Shift: 60 Trial: 4---------
+
+Accuracy: 0.9325153374233128
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.92      1.00      0.96       126
+         2.0       1.00      0.70      0.83        37
+
+    accuracy                           0.93       163
+   macro avg       0.96      0.85      0.89       163
+weighted avg       0.94      0.93      0.93       163
+
+
+Confusion Matrix
+
+[[126   0]
+ [ 11  26]]
+
+-------------------- NN Fea --------------------------------Knot Win: 90 Shift: 60 Trial: 4---------
+
+Accuracy: 0.9202453987730062
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.92      0.98      0.95       126
+         2.0       0.93      0.70      0.80        37
+
+    accuracy                           0.92       163
+   macro avg       0.92      0.84      0.88       163
+weighted avg       0.92      0.92      0.92       163
+
+
+Confusion Matrix
+
+[[124   2]
+ [ 11  26]]
+
+-------------------- Full NN --------------------------------Knot Win: 90 Shift: 60 Trial: 5---------
+
+Accuracy: 0.723404255319149
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.72      1.00      0.84       102
+         2.0       0.00      0.00      0.00        39
+
+    accuracy                           0.72       141
+   macro avg       0.36      0.50      0.42       141
+weighted avg       0.52      0.72      0.61       141
+
+
+Confusion Matrix
+
+[[102   0]
+ [ 39   0]]
+
+-------------------- NN Fea --------------------------------Knot Win: 90 Shift: 60 Trial: 5---------
+
+Accuracy: 0.41843971631205673
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.66      0.40      0.50       102
+         2.0       0.23      0.46      0.31        39
+
+    accuracy                           0.42       141
+   macro avg       0.44      0.43      0.40       141
+weighted avg       0.54      0.42      0.45       141
+
+
+Confusion Matrix
+
+[[41 61]
+ [21 18]]
+
+
+-------------------------------------------
+Acc_full = 0.7879737395663906
+Acc_fea = 0.6326636553537789
+-------------------------------------------

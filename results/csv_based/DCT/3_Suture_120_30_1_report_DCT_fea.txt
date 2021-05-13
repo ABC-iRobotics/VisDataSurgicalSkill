@@ -1,0 +1,120 @@
+-------------------- DCT Features --------------------------------Suture Win: 120 Over: 30 Trial: 1---------
+
+Accuracy: 0.35734331150608045
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.65      0.32      0.43       777
+         1.0       0.16      0.56      0.25        90
+         2.0       0.23      0.42      0.29       202
+
+    accuracy                           0.36      1069
+   macro avg       0.35      0.43      0.32      1069
+weighted avg       0.53      0.36      0.39      1069
+
+
+Confusion Matrix
+
+[[248 261 268]
+ [ 21  50  19]
+ [111   7  84]]
+
+-------------------- DCT Features --------------------------------Suture Win: 120 Over: 30 Trial: 2---------
+
+Accuracy: 0.4503311258278146
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.69      0.63       365
+         1.0       0.05      0.03      0.03        76
+         2.0       0.14      0.10      0.12       163
+
+    accuracy                           0.45       604
+   macro avg       0.25      0.27      0.26       604
+weighted avg       0.39      0.45      0.42       604
+
+
+Confusion Matrix
+
+[[253  33  79]
+ [ 46   2  28]
+ [140   6  17]]
+
+-------------------- DCT Features --------------------------------Suture Win: 120 Over: 30 Trial: 3---------
+
+Accuracy: 0.5558510638297872
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.73      0.70      0.71       526
+         1.0       0.13      0.18      0.15        72
+         2.0       0.25      0.25      0.25       154
+
+    accuracy                           0.56       752
+   macro avg       0.37      0.38      0.37       752
+weighted avg       0.58      0.56      0.57       752
+
+
+Confusion Matrix
+
+[[367  69  90]
+ [ 35  13  24]
+ [ 99  17  38]]
+
+-------------------- DCT Features --------------------------------Suture Win: 120 Over: 30 Trial: 4---------
+
+Accuracy: 0.6537356321839081
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.81      0.79       442
+         1.0       0.34      0.38      0.36        76
+         2.0       0.46      0.38      0.41       178
+
+    accuracy                           0.65       696
+   macro avg       0.52      0.52      0.52       696
+weighted avg       0.64      0.65      0.65       696
+
+
+Confusion Matrix
+
+[[359  17  66]
+ [ 34  29  13]
+ [ 72  39  67]]
+
+-------------------- DCT Features --------------------------------Suture Win: 120 Over: 30 Trial: 5---------
+
+Accuracy: 0.22818791946308725
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.44      0.28      0.35       397
+         1.0       0.20      0.27      0.23        64
+         2.0       0.03      0.05      0.04       135
+
+    accuracy                           0.23       596
+   macro avg       0.22      0.20      0.20       596
+weighted avg       0.32      0.23      0.26       596
+
+
+Confusion Matrix
+
+[[112  47 238]
+ [ 33  17  14]
+ [107  21   7]]
+
+
+-------------------------------------------
+
+Acc_features = 0.4490898105621355
+-------------------------------------------

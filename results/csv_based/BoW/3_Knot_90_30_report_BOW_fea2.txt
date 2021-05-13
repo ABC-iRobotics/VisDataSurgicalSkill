@@ -1,0 +1,120 @@
+-------------------- BOW Features --------------------------------Knot Win: 90 Over: 30 Trial: 1---------
+
+Accuracy: 0.537890044576523
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.69      0.71      0.70      1190
+         1.0       0.37      0.42      0.39       384
+         2.0       0.22      0.17      0.19       445
+
+    accuracy                           0.54      2019
+   macro avg       0.42      0.44      0.43      2019
+weighted avg       0.52      0.54      0.53      2019
+
+
+Confusion Matrix
+
+[[848 172 170]
+ [123 163  98]
+ [260 110  75]]
+
+-------------------- BOW Features --------------------------------Knot Win: 90 Over: 30 Trial: 2---------
+
+Accuracy: 0.385
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.62      0.58       735
+         1.0       0.15      0.12      0.13       340
+         2.0       0.16      0.14      0.15       325
+
+    accuracy                           0.38      1400
+   macro avg       0.28      0.29      0.29      1400
+weighted avg       0.36      0.39      0.37      1400
+
+
+Confusion Matrix
+
+[[453 114 168]
+ [226  41  73]
+ [154 126  45]]
+
+-------------------- BOW Features --------------------------------Knot Win: 90 Over: 30 Trial: 3---------
+
+Accuracy: 0.5020986358866737
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.64      0.61      1031
+         1.0       0.48      0.32      0.38       482
+         2.0       0.32      0.36      0.34       393
+
+    accuracy                           0.50      1906
+   macro avg       0.46      0.44      0.44      1906
+weighted avg       0.50      0.50      0.50      1906
+
+
+Confusion Matrix
+
+[[663 149 219]
+ [254 153  75]
+ [233  19 141]]
+
+-------------------- BOW Features --------------------------------Knot Win: 90 Over: 30 Trial: 4---------
+
+Accuracy: 0.4633493846976993
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.64      0.46      0.53       921
+         1.0       0.31      0.54      0.39       429
+         2.0       0.46      0.40      0.43       519
+
+    accuracy                           0.46      1869
+   macro avg       0.47      0.47      0.45      1869
+weighted avg       0.51      0.46      0.47      1869
+
+
+Confusion Matrix
+
+[[423 337 161]
+ [113 233  83]
+ [126 183 210]]
+
+-------------------- BOW Features --------------------------------Knot Win: 90 Over: 30 Trial: 5---------
+
+Accuracy: 0.4512725015518312
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.61      0.59      0.60       808
+         1.0       0.24      0.16      0.19       338
+         2.0       0.33      0.42      0.37       465
+
+    accuracy                           0.45      1611
+   macro avg       0.39      0.39      0.39      1611
+weighted avg       0.45      0.45      0.45      1611
+
+
+Confusion Matrix
+
+[[477 107 224]
+ [111  55 172]
+ [200  70 195]]
+
+
+-------------------------------------------
+
+Acc_features = 0.46792211334254546
+-------------------------------------------

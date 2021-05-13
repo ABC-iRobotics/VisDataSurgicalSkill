@@ -1,0 +1,110 @@
+-------------------- NN Fea --------------------------------Needle Win: 180 Shift: 60 Trial: 1---------
+
+Accuracy: 0.35443037974683544
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.02      0.03      0.02        39
+         2.0       0.59      0.46      0.52       119
+
+    accuracy                           0.35       158
+   macro avg       0.30      0.24      0.27       158
+weighted avg       0.45      0.35      0.40       158
+
+
+Confusion Matrix
+
+[[ 1 38]
+ [64 55]]
+
+-------------------- NN Fea --------------------------------Needle Win: 180 Shift: 60 Trial: 2---------
+
+Accuracy: 0.8247422680412371
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.76      0.86       142
+         2.0       0.60      1.00      0.75        52
+
+    accuracy                           0.82       194
+   macro avg       0.80      0.88      0.81       194
+weighted avg       0.89      0.82      0.83       194
+
+
+Confusion Matrix
+
+[[108  34]
+ [  0  52]]
+
+-------------------- NN Fea --------------------------------Needle Win: 180 Shift: 60 Trial: 3---------
+
+Accuracy: 0.5275229357798165
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.69      0.61       116
+         2.0       0.49      0.34      0.40       102
+
+    accuracy                           0.53       218
+   macro avg       0.52      0.52      0.51       218
+weighted avg       0.52      0.53      0.51       218
+
+
+Confusion Matrix
+
+[[80 36]
+ [67 35]]
+
+-------------------- NN Fea --------------------------------Needle Win: 180 Shift: 60 Trial: 4---------
+
+Accuracy: 0.5580357142857143
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.66      0.55      0.60       136
+         2.0       0.45      0.57      0.50        88
+
+    accuracy                           0.56       224
+   macro avg       0.56      0.56      0.55       224
+weighted avg       0.58      0.56      0.56       224
+
+
+Confusion Matrix
+
+[[75 61]
+ [38 50]]
+
+-------------------- NN Fea --------------------------------Needle Win: 180 Shift: 60 Trial: 5---------
+
+Accuracy: 0.6081871345029239
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.62      0.70      0.66        91
+         2.0       0.60      0.50      0.54        80
+
+    accuracy                           0.61       171
+   macro avg       0.61      0.60      0.60       171
+weighted avg       0.61      0.61      0.60       171
+
+
+Confusion Matrix
+
+[[64 27]
+ [40 40]]
+
+
+-------------------------------------------
+
+Acc_fea = 0.5745836864713054
+-------------------------------------------

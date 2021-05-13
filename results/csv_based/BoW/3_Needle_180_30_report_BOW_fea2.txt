@@ -1,0 +1,120 @@
+-------------------- BOW Features --------------------------------Needle Win: 180 Over: 30 Trial: 1---------
+
+Accuracy: 0.4189189189189189
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.59      0.54      1041
+         1.0       0.44      0.35      0.39       436
+         2.0       0.18      0.14      0.16       521
+
+    accuracy                           0.42      1998
+   macro avg       0.37      0.36      0.36      1998
+weighted avg       0.40      0.42      0.41      1998
+
+
+Confusion Matrix
+
+[[611 141 289]
+ [229 153  54]
+ [391  57  73]]
+
+-------------------- BOW Features --------------------------------Needle Win: 180 Over: 30 Trial: 2---------
+
+Accuracy: 0.43291473892927956
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.57      0.50      0.53       831
+         1.0       0.34      0.35      0.34       347
+         2.0       0.29      0.36      0.32       335
+
+    accuracy                           0.43      1513
+   macro avg       0.40      0.40      0.40      1513
+weighted avg       0.45      0.43      0.44      1513
+
+
+Confusion Matrix
+
+[[412 172 247]
+ [168 121  58]
+ [147  66 122]]
+
+-------------------- BOW Features --------------------------------Needle Win: 180 Over: 30 Trial: 3---------
+
+Accuracy: 0.45935828877005347
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.55      0.67      0.60       976
+         1.0       0.40      0.26      0.32       462
+         2.0       0.23      0.19      0.21       432
+
+    accuracy                           0.46      1870
+   macro avg       0.39      0.37      0.37      1870
+weighted avg       0.44      0.46      0.44      1870
+
+
+Confusion Matrix
+
+[[656 140 180]
+ [239 121 102]
+ [306  44  82]]
+
+-------------------- BOW Features --------------------------------Needle Win: 180 Over: 30 Trial: 4---------
+
+Accuracy: 0.4402050113895216
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.60      0.66      0.63       951
+         1.0       0.20      0.22      0.21       385
+         2.0       0.22      0.15      0.18       420
+
+    accuracy                           0.44      1756
+   macro avg       0.34      0.34      0.34      1756
+weighted avg       0.42      0.44      0.43      1756
+
+
+Confusion Matrix
+
+[[625 216 110]
+ [183  85 117]
+ [239 118  63]]
+
+-------------------- BOW Features --------------------------------Needle Win: 180 Over: 30 Trial: 5---------
+
+Accuracy: 0.4520383693045564
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.52      0.55       886
+         1.0       0.38      0.44      0.41       343
+         2.0       0.30      0.33      0.32       439
+
+    accuracy                           0.45      1668
+   macro avg       0.42      0.43      0.42      1668
+weighted avg       0.46      0.45      0.46      1668
+
+
+Confusion Matrix
+
+[[459 162 265]
+ [127 151  65]
+ [209  86 144]]
+
+
+-------------------------------------------
+
+Acc_features = 0.4406870654624659
+-------------------------------------------

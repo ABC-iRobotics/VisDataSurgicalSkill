@@ -1,0 +1,110 @@
+-------------------- DFT Features --------------------------------Knot Win: 180 Over: 60 Trial: 1---------
+
+Accuracy: 0.6594202898550725
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.67      0.73        96
+         2.0       0.46      0.64      0.53        42
+
+    accuracy                           0.66       138
+   macro avg       0.63      0.65      0.63       138
+weighted avg       0.70      0.66      0.67       138
+
+
+Confusion Matrix
+
+[[64 32]
+ [15 27]]
+
+-------------------- DFT Features --------------------------------Knot Win: 180 Over: 60 Trial: 2---------
+
+Accuracy: 0.7
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.77      0.79        94
+         2.0       0.46      0.53      0.49        36
+
+    accuracy                           0.70       130
+   macro avg       0.64      0.65      0.64       130
+weighted avg       0.71      0.70      0.71       130
+
+
+Confusion Matrix
+
+[[72 22]
+ [17 19]]
+
+-------------------- DFT Features --------------------------------Knot Win: 180 Over: 60 Trial: 3---------
+
+Accuracy: 0.6644736842105263
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.79      0.74      0.77       113
+         2.0       0.37      0.44      0.40        39
+
+    accuracy                           0.66       152
+   macro avg       0.58      0.59      0.58       152
+weighted avg       0.68      0.66      0.67       152
+
+
+Confusion Matrix
+
+[[84 29]
+ [22 17]]
+
+-------------------- DFT Features --------------------------------Knot Win: 180 Over: 60 Trial: 4---------
+
+Accuracy: 0.6751592356687898
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.74      0.78       122
+         2.0       0.33      0.46      0.39        35
+
+    accuracy                           0.68       157
+   macro avg       0.58      0.60      0.58       157
+weighted avg       0.72      0.68      0.69       157
+
+
+Confusion Matrix
+
+[[90 32]
+ [19 16]]
+
+-------------------- DFT Features --------------------------------Knot Win: 180 Over: 60 Trial: 5---------
+
+Accuracy: 0.6842105263157895
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.80      0.79        97
+         2.0       0.41      0.36      0.38        36
+
+    accuracy                           0.68       133
+   macro avg       0.59      0.58      0.59       133
+weighted avg       0.67      0.68      0.68       133
+
+
+Confusion Matrix
+
+[[78 19]
+ [23 13]]
+
+
+-------------------------------------------
+
+Acc_features = 0.6766527472100357
+-------------------------------------------

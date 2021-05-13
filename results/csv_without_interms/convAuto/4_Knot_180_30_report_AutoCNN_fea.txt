@@ -1,0 +1,110 @@
+-------------------- NN Fea --------------------------------Knot Win: 180 Shift: 30 Trial: 1---------
+
+Accuracy: 0.5182481751824818
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.44      0.56       191
+         2.0       0.35      0.70      0.47        83
+
+    accuracy                           0.52       274
+   macro avg       0.56      0.57      0.51       274
+weighted avg       0.64      0.52      0.53       274
+
+
+Confusion Matrix
+
+[[ 84 107]
+ [ 25  58]]
+
+-------------------- NN Fea --------------------------------Knot Win: 180 Shift: 30 Trial: 2---------
+
+Accuracy: 0.8715953307392996
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.85      1.00      0.92       186
+         2.0       1.00      0.54      0.70        71
+
+    accuracy                           0.87       257
+   macro avg       0.92      0.77      0.81       257
+weighted avg       0.89      0.87      0.86       257
+
+
+Confusion Matrix
+
+[[186   0]
+ [ 33  38]]
+
+-------------------- NN Fea --------------------------------Knot Win: 180 Shift: 30 Trial: 3---------
+
+Accuracy: 0.62
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.75      0.73      0.74       223
+         2.0       0.28      0.30      0.29        77
+
+    accuracy                           0.62       300
+   macro avg       0.51      0.51      0.51       300
+weighted avg       0.63      0.62      0.62       300
+
+
+Confusion Matrix
+
+[[163  60]
+ [ 54  23]]
+
+-------------------- NN Fea --------------------------------Knot Win: 180 Shift: 30 Trial: 4---------
+
+Accuracy: 0.6838709677419355
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.76      0.79       242
+         2.0       0.33      0.43      0.37        68
+
+    accuracy                           0.68       310
+   macro avg       0.58      0.59      0.58       310
+weighted avg       0.72      0.68      0.70       310
+
+
+Confusion Matrix
+
+[[183  59]
+ [ 39  29]]
+
+-------------------- NN Fea --------------------------------Knot Win: 180 Shift: 30 Trial: 5---------
+
+Accuracy: 0.5871212121212122
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.78      0.61      0.68       193
+         2.0       0.33      0.52      0.40        71
+
+    accuracy                           0.59       264
+   macro avg       0.55      0.57      0.54       264
+weighted avg       0.66      0.59      0.61       264
+
+
+Confusion Matrix
+
+[[118  75]
+ [ 34  37]]
+
+
+-------------------------------------------
+
+Acc_fea = 0.6561671371569858
+-------------------------------------------

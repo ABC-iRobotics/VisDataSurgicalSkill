@@ -1,0 +1,110 @@
+-------------------- DFT Features --------------------------------Suture Win: 90 Over: 60 Trial: 1---------
+
+Accuracy: 0.5070707070707071
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.74      0.58      0.65       392
+         2.0       0.12      0.21      0.15       103
+
+    accuracy                           0.51       495
+   macro avg       0.43      0.40      0.40       495
+weighted avg       0.61      0.51      0.55       495
+
+
+Confusion Matrix
+
+[[229 163]
+ [ 81  22]]
+
+-------------------- DFT Features --------------------------------Suture Win: 90 Over: 60 Trial: 2---------
+
+Accuracy: 0.5634328358208955
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.66      0.76      0.71       185
+         2.0       0.19      0.12      0.15        83
+
+    accuracy                           0.56       268
+   macro avg       0.42      0.44      0.43       268
+weighted avg       0.51      0.56      0.53       268
+
+
+Confusion Matrix
+
+[[141  44]
+ [ 73  10]]
+
+-------------------- DFT Features --------------------------------Suture Win: 90 Over: 60 Trial: 3---------
+
+Accuracy: 0.6424418604651163
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.71      0.75       266
+         2.0       0.30      0.42      0.35        78
+
+    accuracy                           0.64       344
+   macro avg       0.55      0.56      0.55       344
+weighted avg       0.69      0.64      0.66       344
+
+
+Confusion Matrix
+
+[[188  78]
+ [ 45  33]]
+
+-------------------- DFT Features --------------------------------Suture Win: 90 Over: 60 Trial: 4---------
+
+Accuracy: 0.546031746031746
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.72      0.58      0.65       224
+         2.0       0.31      0.45      0.36        91
+
+    accuracy                           0.55       315
+   macro avg       0.51      0.52      0.51       315
+weighted avg       0.60      0.55      0.57       315
+
+
+Confusion Matrix
+
+[[131  93]
+ [ 50  41]]
+
+-------------------- DFT Features --------------------------------Suture Win: 90 Over: 60 Trial: 5---------
+
+Accuracy: 0.22878228782287824
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.47      0.28      0.35       202
+         2.0       0.03      0.07      0.05        69
+
+    accuracy                           0.23       271
+   macro avg       0.25      0.18      0.20       271
+weighted avg       0.36      0.23      0.27       271
+
+
+Confusion Matrix
+
+[[ 57 145]
+ [ 64   5]]
+
+
+-------------------------------------------
+
+Acc_features = 0.49755188744226864
+-------------------------------------------

@@ -1,0 +1,120 @@
+-------------------- DCT Features --------------------------------Knot Win: 90 Over: 30 Trial: 1---------
+
+Accuracy: 0.5709779179810726
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.56      0.65       200
+         1.0       0.13      0.14      0.14        28
+         2.0       0.46      0.74      0.57        89
+
+    accuracy                           0.57       317
+   macro avg       0.45      0.48      0.45       317
+weighted avg       0.63      0.57      0.58       317
+
+
+Confusion Matrix
+
+[[111  23  66]
+ [ 14   4  10]
+ [ 19   4  66]]
+
+-------------------- DCT Features --------------------------------Knot Win: 90 Over: 30 Trial: 2---------
+
+Accuracy: 0.44554455445544555
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.65      0.49      0.56       195
+         1.0       0.17      0.26      0.21        31
+         2.0       0.29      0.42      0.34        77
+
+    accuracy                           0.45       303
+   macro avg       0.37      0.39      0.37       303
+weighted avg       0.51      0.45      0.47       303
+
+
+Confusion Matrix
+
+[[95 32 68]
+ [13  8 10]
+ [38  7 32]]
+
+-------------------- DCT Features --------------------------------Knot Win: 90 Over: 30 Trial: 3---------
+
+Accuracy: 0.3573200992555831
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.46      0.46      0.46       235
+         1.0       0.19      0.12      0.14        85
+         2.0       0.22      0.30      0.25        83
+
+    accuracy                           0.36       403
+   macro avg       0.29      0.29      0.29       403
+weighted avg       0.35      0.36      0.35       403
+
+
+Confusion Matrix
+
+[[109  39  87]
+ [ 73  10   2]
+ [ 54   4  25]]
+
+-------------------- DCT Features --------------------------------Knot Win: 90 Over: 30 Trial: 4---------
+
+Accuracy: 0.48825065274151436
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.65      0.62      0.63       251
+         1.0       0.10      0.09      0.09        58
+         2.0       0.30      0.36      0.33        74
+
+    accuracy                           0.49       383
+   macro avg       0.35      0.36      0.35       383
+weighted avg       0.50      0.49      0.49       383
+
+
+Confusion Matrix
+
+[[155  41  55]
+ [ 44   5   9]
+ [ 41   6  27]]
+
+-------------------- DCT Features --------------------------------Knot Win: 90 Over: 30 Trial: 5---------
+
+Accuracy: 0.6055900621118012
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.67      0.79      0.73       202
+         1.0       0.39      0.26      0.31        43
+         2.0       0.43      0.31      0.36        77
+
+    accuracy                           0.61       322
+   macro avg       0.50      0.45      0.47       322
+weighted avg       0.58      0.61      0.58       322
+
+
+Confusion Matrix
+
+[[160  13  29]
+ [ 29  11   3]
+ [ 49   4  24]]
+
+
+-------------------------------------------
+
+Acc_features = 0.49353665730908336
+-------------------------------------------

@@ -1,0 +1,120 @@
+-------------------- BOW Features --------------------------------Suture Win: 90 Over: 30 Trial: 1---------
+
+Accuracy: 0.3907317073170732
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.58      0.54      1061
+         1.0       0.32      0.17      0.22       452
+         2.0       0.18      0.20      0.19       537
+
+    accuracy                           0.39      2050
+   macro avg       0.34      0.32      0.32      2050
+weighted avg       0.38      0.39      0.38      2050
+
+
+Confusion Matrix
+
+[[620  67 374]
+ [274  76 102]
+ [340  92 105]]
+
+-------------------- BOW Features --------------------------------Suture Win: 90 Over: 30 Trial: 2---------
+
+Accuracy: 0.44529750479846447
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.56      0.65      0.60       855
+         1.0       0.23      0.13      0.16       360
+         2.0       0.25      0.27      0.26       348
+
+    accuracy                           0.45      1563
+   macro avg       0.35      0.35      0.34      1563
+weighted avg       0.42      0.45      0.42      1563
+
+
+Confusion Matrix
+
+[[557  68 230]
+ [271  46  43]
+ [169  86  93]]
+
+-------------------- BOW Features --------------------------------Suture Win: 90 Over: 30 Trial: 3---------
+
+Accuracy: 0.4092323651452282
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.53      0.63      0.58      1002
+         1.0       0.10      0.08      0.09       478
+         2.0       0.34      0.26      0.30       448
+
+    accuracy                           0.41      1928
+   macro avg       0.32      0.33      0.32      1928
+weighted avg       0.38      0.41      0.39      1928
+
+
+Confusion Matrix
+
+[[632 295  75]
+ [288  40 150]
+ [271  60 117]]
+
+-------------------- BOW Features --------------------------------Suture Win: 90 Over: 30 Trial: 4---------
+
+Accuracy: 0.34799554565701557
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.55      0.50      0.53       977
+         1.0       0.12      0.15      0.14       383
+         2.0       0.17      0.17      0.17       436
+
+    accuracy                           0.35      1796
+   macro avg       0.28      0.28      0.28      1796
+weighted avg       0.37      0.35      0.36      1796
+
+
+Confusion Matrix
+
+[[493 252 232]
+ [192  58 133]
+ [205 157  74]]
+
+-------------------- BOW Features --------------------------------Suture Win: 90 Over: 30 Trial: 5---------
+
+Accuracy: 0.3637602179836512
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.51      0.38      0.44       790
+         1.0       0.20      0.18      0.19       300
+         2.0       0.29      0.47      0.36       378
+
+    accuracy                           0.36      1468
+   macro avg       0.34      0.34      0.33      1468
+weighted avg       0.39      0.36      0.37      1468
+
+
+Confusion Matrix
+
+[[303 167 320]
+ [132  54 114]
+ [158  43 177]]
+
+
+-------------------------------------------
+
+Acc_features = 0.3914034681802866
+-------------------------------------------

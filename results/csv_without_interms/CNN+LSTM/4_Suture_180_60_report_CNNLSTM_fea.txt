@@ -1,0 +1,215 @@
+-------------------- Full NN --------------------------------Suture Win: 180 Shift: 60 Trial: 1---------
+
+Accuracy: 0.8698347107438017
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.87      0.99      0.92       385
+         2.0       0.89      0.41      0.57        99
+
+    accuracy                           0.87       484
+   macro avg       0.88      0.70      0.74       484
+weighted avg       0.87      0.87      0.85       484
+
+
+Confusion Matrix
+
+[[380   5]
+ [ 58  41]]
+
+-------------------- NN Fea --------------------------------Suture Win: 180 Shift: 60 Trial: 1---------
+
+Accuracy: 0.8078512396694215
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.89      0.86      0.88       385
+         2.0       0.53      0.59      0.56        99
+
+    accuracy                           0.81       484
+   macro avg       0.71      0.73      0.72       484
+weighted avg       0.82      0.81      0.81       484
+
+
+Confusion Matrix
+
+[[333  52]
+ [ 41  58]]
+
+-------------------- Full NN --------------------------------Suture Win: 180 Shift: 60 Trial: 2---------
+
+Accuracy: 0.8423076923076923
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.99      0.90       180
+         2.0       0.95      0.51      0.67        80
+
+    accuracy                           0.84       260
+   macro avg       0.89      0.75      0.78       260
+weighted avg       0.86      0.84      0.83       260
+
+
+Confusion Matrix
+
+[[178   2]
+ [ 39  41]]
+
+-------------------- NN Fea --------------------------------Suture Win: 180 Shift: 60 Trial: 2---------
+
+Accuracy: 0.8076923076923077
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.85      0.88      0.86       180
+         2.0       0.71      0.64      0.67        80
+
+    accuracy                           0.81       260
+   macro avg       0.78      0.76      0.77       260
+weighted avg       0.80      0.81      0.80       260
+
+
+Confusion Matrix
+
+[[159  21]
+ [ 29  51]]
+
+-------------------- Full NN --------------------------------Suture Win: 180 Shift: 60 Trial: 3---------
+
+Accuracy: 0.7738095238095238
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.77      1.00      0.87       260
+         2.0       0.00      0.00      0.00        76
+
+    accuracy                           0.77       336
+   macro avg       0.39      0.50      0.44       336
+weighted avg       0.60      0.77      0.68       336
+
+
+Confusion Matrix
+
+[[260   0]
+ [ 76   0]]
+
+-------------------- NN Fea --------------------------------Suture Win: 180 Shift: 60 Trial: 3---------
+
+Accuracy: 0.6220238095238095
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.74      0.79      0.76       260
+         2.0       0.07      0.05      0.06        76
+
+    accuracy                           0.62       336
+   macro avg       0.40      0.42      0.41       336
+weighted avg       0.59      0.62      0.60       336
+
+
+Confusion Matrix
+
+[[205  55]
+ [ 72   4]]
+
+-------------------- Full NN --------------------------------Suture Win: 180 Shift: 60 Trial: 4---------
+
+Accuracy: 0.7573770491803279
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.79      0.90      0.84       218
+         2.0       0.62      0.39      0.48        87
+
+    accuracy                           0.76       305
+   macro avg       0.70      0.65      0.66       305
+weighted avg       0.74      0.76      0.74       305
+
+
+Confusion Matrix
+
+[[197  21]
+ [ 53  34]]
+
+-------------------- NN Fea --------------------------------Suture Win: 180 Shift: 60 Trial: 4---------
+
+Accuracy: 0.6557377049180327
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.78      0.73      0.75       218
+         2.0       0.41      0.47      0.44        87
+
+    accuracy                           0.66       305
+   macro avg       0.59      0.60      0.60       305
+weighted avg       0.67      0.66      0.66       305
+
+
+Confusion Matrix
+
+[[159  59]
+ [ 46  41]]
+
+-------------------- Full NN --------------------------------Suture Win: 180 Shift: 60 Trial: 5---------
+
+Accuracy: 0.7471264367816092
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.75      1.00      0.86       195
+         2.0       0.00      0.00      0.00        66
+
+    accuracy                           0.75       261
+   macro avg       0.37      0.50      0.43       261
+weighted avg       0.56      0.75      0.64       261
+
+
+Confusion Matrix
+
+[[195   0]
+ [ 66   0]]
+
+-------------------- NN Fea --------------------------------Suture Win: 180 Shift: 60 Trial: 5---------
+
+Accuracy: 0.3524904214559387
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         0.0       0.64      0.30      0.41       195
+         2.0       0.20      0.50      0.28        66
+
+    accuracy                           0.35       261
+   macro avg       0.42      0.40      0.35       261
+weighted avg       0.53      0.35      0.38       261
+
+
+Confusion Matrix
+
+[[ 59 136]
+ [ 33  33]]
+
+
+-------------------------------------------
+Acc_full = 0.7980910825645909
+Acc_fea = 0.649159096651902
+-------------------------------------------
