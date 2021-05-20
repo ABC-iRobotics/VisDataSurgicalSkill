@@ -1,5 +1,18 @@
 # VisDataSurgicalSkill
 
+
+Citation
+----------
+
+If you find this work useful for your publications, please consider citing::
+
+    @inproceedings{2DVisualData,
+    title={Title To Do},
+    author={Gábor Lajkó, Renáta Nagyné Elek, Tamás Haidegger}},
+    booktitle={25th IEEE International Conference on Intelligent Engineering Systems 2021 (INES)},
+    year={2021}
+    }
+
 ## Data
 My extensions to the JIGSAWS dataset are part of this repository, however, to fully be able to use the scripts/jupyter-notebooks, you will need a copy of the original JIGSAWS set, in the same place as my extensions are available (data/JIGSAWS). This is required, because many of the scripts need the actual video files as input. I do not disclose the JIGSAWS dataset, as it is not within my right.
 
