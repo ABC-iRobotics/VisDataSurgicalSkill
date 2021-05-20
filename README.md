@@ -9,7 +9,7 @@ If you find this work useful for your publications, please consider citing::
     @inproceedings{2DVisualData,
     title={Title To Do},
     author={Gábor Lajkó, Renáta Nagyné Elek, Tamás Haidegger}},
-    booktitle={25th IEEE International Conference on Intelligent Engineering Systems 2021 (INES)},
+    booktitle={Conference Title},
     year={2021}
     }
 
