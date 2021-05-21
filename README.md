@@ -9,15 +9,16 @@ My extensions to the JIGSAWS dataset are part of this repository, however, to fu
 Dependencies
 ------------
 
-* Make
-* This
-* List
-* And
-* requirements.txt
+* Numpy 1.19.5
+* PyAutoGUI 0.9.52
+* opencv-python 4.2.0.34
+* scipy 1.4.1
+* scikit-learn 0.23.2
+* Keras  2.1.5
 
 To install all these dependencies you can run
 ::
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 
 ## Instructions
