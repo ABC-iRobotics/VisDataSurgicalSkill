@@ -36,9 +36,27 @@ Citation
 
 If you find this work useful for your publications, please consider citing::
 
-    @inproceedings{2DVisualData,
-    title={Title To Do},
-    author={Gábor Lajkó, Renáta Nagyné Elek, Tamás Haidegger}},
-    booktitle={Conference Title},
-    year={2021}
+    @Article{s21165412,
+    AUTHOR = {Lajkó, Gábor and Nagyné Elek, Renáta and Haidegger, Tamás},
+    TITLE = {Endoscopic Image-Based Skill Assessment in Robot-Assisted Minimally Invasive Surgery},
+    JOURNAL = {Sensors},
+    VOLUME = {21},
+    YEAR = {2021},
+    NUMBER = {16},
+    ARTICLE-NUMBER = {5412},
+    URL = {https://www.mdpi.com/1424-8220/21/16/5412},
+    ISSN = {1424-8220},
+    ABSTRACT = {Objective skill assessment-based personal performance feedback is a vital part of surgical training. Either kinematic—acquired through surgical robotic systems, mounted sensors on tooltips or wearable sensors—or visual input data can be employed to perform objective algorithm-driven skill assessment. Kinematic data have been successfully linked with the expertise of surgeons performing Robot-Assisted Minimally Invasive Surgery (RAMIS) procedures, but for traditional, manual Minimally Invasive Surgery (MIS), they are not readily available as a method. 3D visual features-based evaluation methods tend to outperform 2D methods, but their utility is limited and not suited to MIS training, therefore our proposed solution relies on 2D features. The application of additional sensors potentially enhances the performance of either approach. This paper introduces a general 2D image-based solution that enables the creation and application of surgical skill assessment in any training environment. The 2D features were processed using the feature extraction techniques of a previously published benchmark to assess the attainable accuracy. We relied on the JHU–ISI Gesture and Skill Assessment Working Set dataset—co-developed by the Johns Hopkins University and Intuitive Surgical Inc. Using this well-established set gives us the opportunity to comparatively evaluate different feature extraction techniques. The algorithm reached up to 95.74% accuracy in individual trials. The highest mean accuracy—averaged over five cross-validation trials—for the surgical subtask of Knot-Tying was 83.54%, for Needle-Passing 84.23% and for Suturing 81.58%. The proposed method measured well against the state of the art in 2D visual-based skill assessment, with more than 80% accuracy for all three surgical subtasks available in JIGSAWS (Knot-Tying, Suturing and Needle-Passing). By introducing new visual features—such as image-based orientation and image-based collision detection—or, from the evaluation side, utilising other Support Vector Machine kernel methods, tuning the hyperparameters or using other classification methods (e.g., the boosted trees algorithm) instead, classification accuracy can be further improved. We showed the potential use of optical flow as an input for RAMIS skill assessment, highlighting the maximum accuracy achievable with these data by evaluating it with an established skill assessment benchmark, by evaluating its methods independently. The highest performing method, the Residual Neural Network, reached means of 81.89%, 84.23% and 83.54% accuracy for the skills of Suturing, Needle-Passing and Knot-Tying, respectively.},
+    DOI = {10.3390/s21165412}
+    }
+
+if you found it in the journal MDPI Sensors, or::
+
+    @inproceedings{IEEEexample:conf_typical,
+      author        = "Lajkó, Gábor and Nagyné Elek, Renáta and Haidegger, Tamás",
+      title         = "Surgical Skill Assessment Automation Based on Sparse Optical Flow Data",
+      booktitle     = "INES 2021 25th IEEE International Conference on Intelligent Engineering Systems 2021",
+      address       = "Budapest, Hungary",
+      month         = jul,
+      year          = "2021"
     }
