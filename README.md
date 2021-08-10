@@ -52,7 +52,7 @@ If you find this work useful for your publications, please consider citing::
 
 if you found it in the journal MDPI Sensors, or::
 
-    @inproceedings{IEEEexample:conf_typical,
+    @inproceedings{IEEE2021VisDataSkillA,
       author        = "Lajkó, Gábor and Nagyné Elek, Renáta and Haidegger, Tamás",
       title         = "Surgical Skill Assessment Automation Based on Sparse Optical Flow Data",
       booktitle     = "INES 2021 25th IEEE International Conference on Intelligent Engineering Systems 2021",
